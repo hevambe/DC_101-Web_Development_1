@@ -1,0 +1,9 @@
+Surname: Laygo
+First Name: Renz Arvie
+Middle Name: Mulintapang
+Section: BSCS-2E
+Age: 19 
+Gender: Male
+Birthday: November 09,2004
+Address: Bagongpook, Lipa City
+Instructor: Engr.Eugene Fortunado
